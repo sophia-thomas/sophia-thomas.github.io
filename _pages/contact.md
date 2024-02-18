@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /contact/
-title: contact
+title: Contact
 description: members of the lab or group
 nav: true
 nav_order: 2
