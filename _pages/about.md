@@ -9,9 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Bryce Thomas</p>
 
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
@@ -19,8 +17,17 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. A change.
+Bryce Thomas is the owner and founder of BPT Architecture. He comes from a pedigree of master builders, his grandfather built and designed many prominent buildings in Knoxville, Tennessee where Bryce was raised. His father, while primarily a
+business man, continued designing furniture, painting, and sculpting.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Bryce knew from an early age that he was destined to the field of Architecture. He attended the University of Cincinnati where he earned_a Bachelor of Architecture. Vvhile studying, he worked in professional offices gaining knowledge of the practice of architecture. These assignments lead to unique work experiences including work with world renowned architect, Frank Gehry; prominent historic preservationist, Eean MCNaughton in New Orleans, Louisiana, and corporate giant, SOM, the Architects of One World Trade Center in Manhattan.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+He has traveled to four continents and extensively throughout the United States, living in every region, gaining knowledge of each region.
+
+His love of nature and the broad landscape of the West lead him to settle in Seattle, Washington where he apprenticed with noted Architect, Mark Millett. He completed certification as a construction document technologist as well is a licensed Architect for the state of Washington. He continues to appreciate the diversity, light, and culture of the Pacific Northwest.
+
+BPT Architecture was founded in 1999. He has completed many residential renovations, numerous ground up residences as well as many commercial projects and resolved complex permitting issues. Each project has been uniquely custom tailored to the needs and aesthetic desires of the individual customer with regard to environmental responsibility and fiscal restraints.
+
+The Architectural responses have been a collaboration between the owner, contractor, and BPT through engaged conversations and meetings from concept to fruition. A team of familiar consultants are drawn in as needed.
+
+BPT Architecture is optimistic and forward thinking.
