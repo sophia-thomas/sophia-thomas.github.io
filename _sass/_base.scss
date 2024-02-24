@@ -268,7 +268,7 @@ blockquote {
   padding-bottom: 0;
 }
 
-.navbar-brand .figure {
+.navbar-brand figure {
   margin-bottom: 0;
 }
 
@@ -305,6 +305,7 @@ blockquote {
     padding-bottom: 0;
     padding-top: 0;
     font-size: 1.7rem;
+    margin-left: 8;
 
     a {
       i::before {
