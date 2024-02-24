@@ -233,6 +233,8 @@ blockquote {
   border-bottom: 10px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
   opacity: 0.95;
+  padding-top: 0;
+  padding-bottom: 0;
 }
 
 .navbar .dropdown-menu {
@@ -259,6 +261,11 @@ blockquote {
     color: var(--global-hover-color);
     background-color: var(--global-bg-color);
   }
+}
+
+.navbar-brand {
+  paddinp-top: 0;
+  padding-bottom: 0;
 }
 
 .navbar.navbar-light {
