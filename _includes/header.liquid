@@ -2,35 +2,31 @@
   <!-- Nav Bar -->
   <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}" role="navigation">
     <div class="container">
-      {% if page.permalink != '/' %}
-        <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
-          {% if site.logo %}
-            {% assign profile_image_path = site.logo | prepend: 'assets/img/' %}
-            {% assign profile_image_class = 'img-fluid z-depth-0 rounded' %}
-            {% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}
-            {% include figure.liquid path = profile_image_path class = profile_image_class sizes = sizes alt = site.logo %}
-          {% elsif site.title == 'blank' %}
-            {% if site.first_name %}
-              <span class="font-weight-bold">
-                {{- site.first_name -}}
-                &nbsp;</span
-              >
-            {% endif %}
-            {% if site.middle_name %}
-              {{- site.middle_name -}}
-              &nbsp;
-            {% endif %}
-            {% if site.last_name %}
-              {{- site.last_name -}}
-            {% endif %}
-          {% else %}
-            {{- site.title -}}
+      <!-- Site Identification -->
+      <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
+        {% if site.logo %}
+          {% assign profile_image_path = site.logo | prepend: 'assets/img/' %}
+          {% assign profile_image_class = 'img-fluid z-depth-0 rounded' %}
+          {% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}
+          {% include figure.liquid path = profile_image_path class = profile_image_class sizes = sizes alt = site.logo %}
+        {% elsif site.title == 'blank' %}
+          {% if site.first_name %}
+            <span class="font-weight-bold">
+              {{- site.first_name -}}
+              &nbsp;</span
+            >
           {% endif %}
-        </a>
-      {% elsif site.enable_navbar_social %}
-        <!-- Social Icons -->
-        <div class="navbar-brand social">{% include social.liquid %}</div>
-      {% endif %}
+          {% if site.middle_name %}
+            {{- site.middle_name -}}
+            &nbsp;
+          {% endif %}
+          {% if site.last_name %}
+            {{- site.last_name -}}
+          {% endif %}
+        {% else %}
+          {{- site.title -}}
+        {% endif %}
+      </a>
       <!-- Navbar Toggle -->
       <button
         class="navbar-toggler collapsed ml-auto"
@@ -114,6 +110,10 @@
               {% endif %}
             {% endif %}
           {% endfor %}
+          {% if site.enable_navbar_social %}
+            <!-- Social Icons -->
+            <div class="navbar-brand social">{% include social.liquid %}</div>
+          {% endif %}
           {% if site.enable_darkmode %}
             <!-- Toogle theme mode -->
             <li class="toggle-container">
