@@ -17,10 +17,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Bryce Thomas is the owner and founder of BPT Architecture. He comes from a pedigree of master builders, his grandfather built and designed many prominent buildings in Knoxville, Tennessee where Bryce was raised. His father, while primarily a
+Bryce Thomas is the owner and founder of BPT Architecture. He comes from a pedigree of master builders. His grandfather built and designed many prominent buildings in Knoxville, Tennessee where Bryce was raised. His father, while primarily a
 business man, continued designing furniture, painting, and sculpting.
 
-Bryce knew from an early age that he was destined to the field of Architecture. He attended the University of Cincinnati where he earned_a Bachelor of Architecture. Vvhile studying, he worked in professional offices gaining knowledge of the practice of architecture. These assignments lead to unique work experiences including work with world renowned architect, Frank Gehry; prominent historic preservationist, Eean MCNaughton in New Orleans, Louisiana, and corporate giant, SOM, the Architects of One World Trade Center in Manhattan.
+Bryce knew from an early age that he was destined to the field of Architecture. He attended the University of Cincinnati where he earned a Bachelor of Architecture. While studying, he worked in professional offices gaining knowledge of the practice of architecture. These assignments lead to unique work experiences including work with world renowned architect, Frank Gehry; prominent historic preservationist, Eean MCNaughton in New Orleans, Louisiana, and corporate giant, SOM, the Architects of One World Trade Center in Manhattan.
 
 He has traveled to four continents and extensively throughout the United States, living in every region, gaining knowledge of each region.
 
