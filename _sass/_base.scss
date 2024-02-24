@@ -264,8 +264,12 @@ blockquote {
 }
 
 .navbar-brand {
-  paddinp-top: 0;
+  padding-top: 0;
   padding-bottom: 0;
+}
+
+.navbar-brand .figure {
+  margin-bottom: 0;
 }
 
 .navbar.navbar-light {

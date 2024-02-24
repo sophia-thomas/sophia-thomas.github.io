@@ -5,10 +5,10 @@
       <!-- Site Identification -->
       <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
         {% if site.logo %}
-          {% assign profile_image_path = site.logo | prepend: 'assets/img/' %}
-          {% assign profile_image_class = 'img-fluid z-depth-0 rounded' %}
+          {% assign logo_image_path = site.logo | prepend: 'assets/img/' %}
+          {% assign logo_image_class = 'img-fluid z-depth-0 rounded' %}
           {% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}
-          {% include figure.liquid path = profile_image_path class = profile_image_class sizes = sizes alt = site.logo %}
+          {% include figure.liquid path = logo_image_path class = logo_image_class sizes = sizes alt = site.logo %}
         {% elsif site.title == 'blank' %}
           {% if site.first_name %}
             <span class="font-weight-bold">
