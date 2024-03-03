@@ -7,27 +7,27 @@ importance: 1
 ---
 
 <div class="row">
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/poe/existing.jpg" title="Existing" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/poe/main.jpg" title="Finished Project" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/poe/existing-2.jpg" title="Existing" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Left: Existing - Right: New
+    Existing
 </div>
 
 <div class="row">
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/poe/existing-2.jpg" title="Existing" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/poe/main.jpg" title="Finished Project" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/poe/new-2.jpg" title="Finished Project" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Left: Existing - Right: New
+    New
 </div>
 
 <div class="row">
