@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Deck Study
-description: Study of Proposed Rear Yard Deck
+title: Study of Proposed Deck
+description:
 img: assets/img/deck/main.jpg
 importance: 2
 ---
