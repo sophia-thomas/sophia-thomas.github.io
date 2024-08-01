@@ -47,10 +47,10 @@ importance: 1
         {% include figure.liquid path="assets/img/madrona/gardenshed.jpg" title="New Garden Shed" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/madrona/gardenshed-2.jpg" title="New Garden Shed" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/madrona/gardenshed-3.jpg" title="New Garden Shed" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/madrona/gardenshed-3.jpg" title="New Garden Shed" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/madrona/gardenshed-2.jpg" title="New Garden Shed" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 

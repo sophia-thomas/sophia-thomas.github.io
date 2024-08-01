@@ -29,10 +29,10 @@ importance: 1
         {% include figure.liquid path="assets/img/wood/musicalroom.jpg" title="Music Room" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/wood/laundryroom.JPG" title="Laundry Room" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/wood/laundryroom.jpg" title="Laundry Room" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/wood/basementremodel.JPG" title="Basement" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/wood/basementremodel.jpg" title="Basement" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -53,7 +53,7 @@ importance: 1
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/wood/windowdetail.JPG" title="Window Detail" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/wood/windowdetail.jpg" title="Window Detail" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/wood/13.jpg" title="Window Detail" class="img-fluid rounded z-depth-1" %}
@@ -65,7 +65,7 @@ importance: 1
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/wood/20.JPG" title="Interior" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/wood/20.jpg" title="Interior" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/wood/18.jpg" title="Interior" class="img-fluid rounded z-depth-1" %}
@@ -86,22 +86,22 @@ importance: 1
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/wood/5.JPG" title="Interior" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/wood/5.jpg" title="Interior" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/wood/5c.jpg" title="Interior" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/wood/14.JPG" title="Interior" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/wood/14.jpg" title="Interior" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/wood/11.JPG" title="Exterior" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/wood/11.jpg" title="Exterior" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/wood/detachedstudio.JPG" title="Exterior" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/wood/detachedstudio.jpg" title="Exterior" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
