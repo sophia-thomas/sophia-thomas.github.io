@@ -20,9 +20,6 @@ importance: 1
         </div>
     </div>
 </div>
-<div class="caption">
-    Left: Before - Right: After
-</div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
