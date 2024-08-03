@@ -8,102 +8,139 @@ importance: 1
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/ravenna/model.jpg" title="Model" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Model
-</div>
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/ravenna/10.jpg" title="Construction" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/ravenna/12.jpg" title="Construction" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/ravenna/main1.jpg" title="Main" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/ravenna/musicalroom.jpg" title="Music Room" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/ravenna/laundryroom.jpg" title="Laundry Room" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/ravenna/basementremodel.jpg" title="Basement" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    From Left to Right: Music Room, Laundry Room, Basement
-</div>
+##Upper Floor
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/ravenna/columndetail.jpg" title="Column Detail" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/ravenna/model2.jpg" title="Model" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/ravenna/interiorcolumndetail.jpg" title="Column Detail" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/ravenna/sideview3.jpg" title="Side View" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
-<div class="caption">
-    Exterior and Interior Column Details
 </div>
 
 <div class="row">
+  <div class="col-sm mt-3 mt-md-0">
+  </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/ravenna/windowdetail.jpg" title="Window Detail" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/ravenna/columndetail4.jpg" title="Column" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/ravenna/13.jpg" title="Window Detail" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Window Details
-</div>
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/ravenna/20.jpg" title="Interior" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/ravenna/18.jpg" title="Interior" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/ravenna/6.jpg" title="Interior" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/ravenna/ravennapanelingfrommagnoliatreefelledfromsite.jpeg" title="Wood Paneling" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Wood Paneling from Magnolia Tree Felled from Site
-</div>
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/ravenna/5.jpg" title="Interior" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/ravenna/beam5.jpg" title="Construction" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/ravenna/5c.jpg" title="Interior" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/ravenna/14.jpg" title="Interior" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/ravenna/beam6.jpg" title="Construction" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/ravenna/11.jpg" title="Exterior" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/ravenna/musicalroom7.jpg" title="Music Room" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/ravenna/detachedstudio.jpg" title="Exterior" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/ravenna/ceiling8.jpg" title="Ceiling" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    House And Detached Studio
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/ravenna/stairway9.jpg" title="Stairway" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/ravenna/stairway10.jpg" title="Stairway" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/ravenna/ravennapanelingfrommagnoliatreefelledfromsite11.jpeg" title="Wood Paneling" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/ravenna/stairclose12.jpg" title="Stairway" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/ravenna/wood13.jpg" title="Wood" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/ravenna/archwindow14.jpg" title="Window" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/ravenna/bathroom15.jpg" title="Bathroom" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/ravenna/cabinet16.jpg" title="Cabinet" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/ravenna/interiorcolumndetail17.jpg" title="Column Detail" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+##Lowered Basement Floor
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/ravenna/basement1.jpg" title="Basement" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/ravenna/basementremodel2.jpg" title="Basement" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/ravenna/basementwork3.jpg" title="Basement Work" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/ravenna/basementwork4.jpg" title="Basement Work" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/ravenna/basementwork5.jpg" title="Basement Work" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/ravenna/basementwork6.jpg" title="Basement Work" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/ravenna/basementcouch7.jpg" title="Basement" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/ravenna/basementcabinet8.jpg" title="Basement" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/ravenna/basementlaundryroom9.jpg" title="Basement" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/ravenna/basementpanel11.jpg" title="Basement" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+##Pottery Kiln
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/ravenna/detachedstudio1.jpg" title="Pottern Kiln" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/ravenna/windowdetail2.jpg" title="Pottery Kiln Window" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
