@@ -12,7 +12,6 @@ importance: 1
     </div>
 </div>
 
-<h2>Part 1 - Upper Floor</h2>
 ## Upper Floor Addition
 
 <div class="row">
@@ -88,7 +87,7 @@ importance: 1
     </div>
 </div>
 
-<h2>Part 2 - Lowered Basement Floor</h2>
+## Lowered Basement Floor
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -135,7 +134,7 @@ importance: 1
     </div>
 </div>
 
-<h2>Part 3 - Pottery Kiln</h2>
+## Pottery Kiln
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
