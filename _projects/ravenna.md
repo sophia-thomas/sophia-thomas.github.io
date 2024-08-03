@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ravenna Dwelling
-description:
+description: A Three Part Renovation: Upper Floor Addition, Lowered Basement Floor, and Pottery Kiln
 img: assets/img/ravenna/main.jpg
 importance: 1
 ---
@@ -12,7 +12,8 @@ importance: 1
     </div>
 </div>
 
-##Upper Floor
+<h2>Part 1 - Upper Floor</h2>
+## Upper Floor Addition
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -62,7 +63,7 @@ importance: 1
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/ravenna/ravennapanelingfrommagnoliatreefelledfromsite11.jpeg" title="Wood Paneling" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/ravenna/woodpanelingfrommagnoliatreefelledfromsite11.jpeg" title="Wood Paneling" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/ravenna/stairclose12.jpg" title="Stairway" class="img-fluid rounded z-depth-1" %}
@@ -87,7 +88,7 @@ importance: 1
     </div>
 </div>
 
-##Lowered Basement Floor
+<h2>Part 2 - Lowered Basement Floor</h2>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -134,7 +135,7 @@ importance: 1
     </div>
 </div>
 
-##Pottery Kiln
+<h2>Part 3 - Pottery Kiln</h2>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
