@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ravenna Dwelling
-description: A Three Part Renovation: Upper Floor Addition, Lowered Basement Floor, and Pottery Kiln
+description:
 img: assets/img/ravenna/main.jpg
 importance: 1
 ---
@@ -11,8 +11,6 @@ importance: 1
         {% include figure.liquid path="assets/img/ravenna/main1.jpg" title="Main" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
-#### Upper Floor Addition
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
