@@ -149,16 +149,21 @@ blockquote {
 .card {
   background-color: var(--global-card-bg-color);
 
+  .figure {
+    margin-bottom: 0rem;
+  }
+
   img {
     width: 100%;
   }
 
   .card-title {
     color: var(--global-text-color);
+    margin-bottom: 0rem;
   }
 
   .card-body {
-      padding: 0.75rem;
+    padding: 0.75rem;
   }
 
   .card-item {
