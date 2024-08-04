@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ravenna Dwelling
-description: A three-part renovation
+description:
 img: assets/img/ravenna/main.jpg
 importance: 1
 ---
