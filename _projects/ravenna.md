@@ -12,7 +12,18 @@ importance: 1
     </div>
 </div>
 
-#### Upper Floor Addition
+<div>
+<h2> THIS BECAME (3) DIFFERENT PARTS FOR THE  SAME PROPERTY: </h4>
+<ol>
+<li><a href="#upper-floor">A SECOND STORY ADDITION WITH SPECIAL SPACES INCLUDING A MUSIC PRACTICE SPACE AND A HIDDEN LIBRARY.</a></li>
+<li><a href="#basement">BASEMENT REMODEL LOWERING FLOOR AND REMOVING COLUMNS WITH A BAR, MEDIA SPACE, OFFICE, AND LAUNDRY.</a></li>
+<li><a href="#studio">A POTTERY STUDIO WITH A KILN.</a></li>
+</ol>
+<div>
+
+<p id="upper-floor">
+  <h4>Upper Floor Addition</h4>
+</p>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -87,7 +98,9 @@ importance: 1
     </div>
 </div>
 
-#### Lowered Basement Floor
+<p id="basement">
+  <h4>Lowered Basement Floor</h4>
+</p>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -134,7 +147,9 @@ importance: 1
     </div>
 </div>
 
-#### Pottery Kiln
+<p id="studio">
+  <h4>Pottery Kiln</h4>
+</p>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
