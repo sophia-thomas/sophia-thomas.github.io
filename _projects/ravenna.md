@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ravenna Dwelling
+title: RAVENNA DWELLING
 description:
 img: assets/img/ravenna/main.jpg
 importance: 1

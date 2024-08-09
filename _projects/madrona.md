@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Madrona Residence
+title: MADRONA RESIDENCE
 description:
 img: assets/img/madrona/main.jpg
 importance: 1
