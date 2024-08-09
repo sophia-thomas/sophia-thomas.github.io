@@ -38,7 +38,7 @@ importance: 2
         {% include figure.liquid path="assets/img/westseattle/door.jpg" title="Door" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/westseattle/door.jpg" title="Door" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/westseattle/door2.jpg" title="Door" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
