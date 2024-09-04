@@ -11,9 +11,6 @@ importance: 1
         {% include figure.liquid path="assets/img/worm/main.jpg" title="Exterior" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    Model
-</div>
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
