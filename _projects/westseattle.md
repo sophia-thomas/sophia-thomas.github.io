@@ -3,7 +3,8 @@ layout: page
 title: WEST SEATTLE RESIDENCE
 description:
 img: assets/img/westseattle/main.jpg
-importance: 2
+importance: 1
+category: Projects
 ---
 
 <div class="row">

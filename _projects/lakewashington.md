@@ -4,6 +4,7 @@ title: LAKE WASHINGTON RESIDENCE
 description:
 img: assets/img/worm/main.jpg
 importance: 1
+category: Projects
 ---
 
 <div class="row">

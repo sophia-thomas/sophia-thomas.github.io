@@ -4,6 +4,7 @@ title: MADRONA RESIDENCE
 description:
 img: assets/img/madrona/main.jpg
 importance: 1
+category: Projects
 ---
 
 <div class="row">

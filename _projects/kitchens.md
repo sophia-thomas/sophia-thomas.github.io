@@ -4,6 +4,7 @@ title: KITCHENS
 description:
 img: assets/img/kitchen/1.jpg
 importance: 2
+category: Examples
 ---
 
 <div class="row">
