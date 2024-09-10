@@ -36,3 +36,30 @@ category: Examples
         {% include figure.liquid path="assets/img/deck/8.jpg" title="Deck" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/deck/9.jpg" title="Deck" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/deck/11.jpg" title="Deck" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/deck/10.jpg" title="Deck" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/deck/14.jpg" title="Deck" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/deck/12.jpg" title="Deck" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/deck/13.jpg" title="Deck" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
