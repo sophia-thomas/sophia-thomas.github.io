@@ -80,7 +80,4 @@ BPT Architecture is optimistic and forward thinking.
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/bpt/7.jpg" title="Building" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/bpt/wood.jpg" title="Wood" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
 </div>
