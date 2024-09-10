@@ -17,8 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Bryce Thomas is the owner and founder of BPT Architecture. He comes from a pedigree of master builders. His grandfather built and designed many prominent buildings in Knoxville, Tennessee where Bryce was raised. His father, while primarily a
-business man, continued designing furniture, painting, and sculpting.
+Bryce Thomas is the owner and founder of BPT Architecture. He comes from a pedigree of master builders. His grandfather built and designed many prominent buildings in Knoxville, Tennessee where Bryce was raised. His father, while primarily a business man, continued designing furniture, painting, and sculpting.
 
 Bryce knew from an early age that he was destined to the field of Architecture. He attended the University of Cincinnati where he earned a Bachelor of Architecture. While studying, he worked in professional offices gaining knowledge of the practice of architecture. These assignments lead to unique work experiences including work with world renowned architect, Frank Gehry; prominent historic preservationist, Eean MCNaughton in New Orleans, Louisiana, and corporate giant, SOM, the Architects of One World Trade Center in Manhattan.
 
@@ -31,3 +30,57 @@ BPT Architecture was founded in 1999. He has completed many residential renovati
 The Architectural responses have been a collaboration between the owner, contractor, and BPT through engaged conversations and meetings from concept to fruition. A team of familiar consultants are drawn in as needed.
 
 BPT Architecture is optimistic and forward thinking.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/bpt/grandfathersfirm.jpg" title="Newspage" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/bpt/tallestbuildinginknoxvilleattime.jpg" title="Tallest Building" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Grandfather's Work
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/bpt/sketchofworldsfairstructureage14.jpg" title="Sketch" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/bpt/worldsfairletter.jpg" title="Letter" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    World's Fair
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/bpt/1994.jpg" title="Self" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/bpt/main.jpg" title="Business" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/bpt/woodworking.jpg" title="Woodworking" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/bpt/5.jpg" title="Woodworking" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/bpt/4a.jpg" title="Sketch" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/bpt/7.jpg" title="Building" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/bpt/8.jpg" title="Wood" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
