@@ -86,7 +86,7 @@ category: Projects
         {% include figure.liquid path="assets/img/ravenna/wood13.jpg" title="Wood" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/ravenna/archwindow14.jpg" title="Window" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/ravenna/wooddetail.jpg" title="Window" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
@@ -158,6 +158,6 @@ category: Projects
         {% include figure.liquid path="assets/img/ravenna/detachedstudio1.jpg" title="Pottern Kiln" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/ravenna/windowdetail2.jpg" title="Pottery Kiln Window" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/ravenna/windowdetail22.jpg" title="Pottery Kiln Window" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
