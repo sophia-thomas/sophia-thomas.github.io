@@ -27,7 +27,7 @@ category: Projects
         {% include figure.liquid path="assets/img/madisonvalley/hallway.jpg" title="Hallway" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/madisonvalley/bathroom.jpg" title="Bathroom" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/madisonvalley/bathroom.jpg" title="Bathroom" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
@@ -36,6 +36,6 @@ category: Projects
         {% include figure.liquid path="assets/img/madisonvalley/room.jpg" title="Room" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/madisonvalley/window.jpg" title="Window" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/madisonvalley/window.jpg" title="Window" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
