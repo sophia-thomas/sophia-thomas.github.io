@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CLIFF LOOKOUT
+title: PASSAGE HOUSE
 description:
 img: assets/img/clifflookout/exterior.jpg
 importance: 1

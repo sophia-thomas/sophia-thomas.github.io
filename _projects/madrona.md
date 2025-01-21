@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MADRONA RESIDENCE
+title: MADRONA CRAFTSMAN
 description:
 img: assets/img/madrona/main.jpg
 importance: 1
