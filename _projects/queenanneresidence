@@ -1,0 +1,53 @@
+---
+layout: page
+title: QUEEN ANNE RESIDENCE
+description:
+img: assets/img/queenanneresidence/1.JPG
+importance: 1
+category: Projects
+---
+
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0">
+      {% include figure.liquid path="assets/img/queenanneresidence/1.JPG" title="Exterior" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+      {% include figure.liquid path="assets/img/queenanneresidence/2.JPG" title="Exterior" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0">
+      {% include figure.liquid path="assets/img/queenanneresidence/3.JPG" title="Exterior" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+      {% include figure.liquid path="assets/img/queenanneresidence/4.JPG" title="Exterior" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0">
+      {% include figure.liquid path="assets/img/queenanneresidence/5.JPG" title="Exterior" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+      {% include figure.liquid path="assets/img/queenanneresidence/6.JPG" title="Exterior" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0">
+      {% include figure.liquid path="assets/img/queenanneresidence/7.JPG" title="Exterior" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+      {% include figure.liquid path="assets/img/queenanneresidence/8.JPG" title="Exterior" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0">
+      {% include figure.liquid path="assets/img/queenanneresidence/9.JPG" title="Exterior" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+      {% include figure.liquid path="assets/img/queenanneresidence/10.jpg" title="Exterior" class="img-fluid rounded z-depth-1" zoomable=true %}
+  </div>
+</div>
