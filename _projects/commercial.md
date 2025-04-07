@@ -2,7 +2,7 @@
 layout: page
 title: COMMERCIAL WORK
 description:
-img: assets/img/commercial/1.jpg
+img: assets/img/commercial/1.JPG
 importance: 1
 category: Projects
 ---
