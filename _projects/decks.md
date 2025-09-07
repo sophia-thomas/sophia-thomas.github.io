@@ -4,7 +4,7 @@ title: DECKS
 description:
 img: assets/img/deck/main.jpg
 importance: 2
-category: Examples
+category: Samples
 ---
 
 <div class="row">

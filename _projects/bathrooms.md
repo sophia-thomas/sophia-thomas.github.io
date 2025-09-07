@@ -4,7 +4,7 @@ title: BATHROOMS
 description:
 img: assets/img/bathroom/1.jpg
 importance: 2
-category: Examples
+category: Samples
 ---
 
 <div class="row">

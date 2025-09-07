@@ -1075,11 +1075,16 @@ nav[data-toggle="toc"] {
       white-space: nowrap;
     }
 
+    .card-title {
+      display: none;
+    }
+
     &:hover {
       color: var(--global-theme-color);
 
       .card-title {
         color: var(--global-theme-color);
+        display: block;
       }
     }
   }
