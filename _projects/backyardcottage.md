@@ -1,6 +1,6 @@
 ---
 layout: page
-title: BACKYARD COTTAG
+title: BACKYARD COTTAGE
 description:
 img: assets/img/backyardcottage/backyardcottage3.JPG
 importance: 1
